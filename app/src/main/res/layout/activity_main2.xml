@@ -18,11 +18,11 @@
             android:id="@+id/textwelcome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Welcome"
-            android:textSize="24sp"
-            android:textColor="@color/black"
-            android:textStyle="italic"
-            android:textAlignment="center"/>
-    </LinearLayout>
+        android:text="Welcome"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:textStyle="italic"
+        android:textAlignment="center"/>
+</LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
